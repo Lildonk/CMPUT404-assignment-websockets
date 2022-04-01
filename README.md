@@ -59,4 +59,3 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
-* Zheqi Lv
